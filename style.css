@@ -1,0 +1,36 @@
+img{
+    width: 200px;
+    float: right;
+    border: 5px solid #ac9191;
+  }
+  h1{
+    text-align: center;
+    text-shadow: 2px 2px grey;
+    font-family: sans-serif;
+  }
+  body{
+    background-color: #ead8db;
+  }
+  h3{
+    font-family: sans-serif;
+    text-align: center;
+    color: #5f0707;
+  }
+  p{
+    text-align: center;
+  }
+  .topnav {
+    background-color: #f4c2c2;
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: #d07878;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+  
